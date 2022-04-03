@@ -1,2 +1,0 @@
-# AB
-My "Hello World"
